@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anuragtsl
+- 👋 Hi, I’m @Anurag
 - 👀 I’m interested in Data Scientist Jobs/Internships
 - 🌱 I’m currently learning Exploratory Data Analysis and Machine Learning(including Advance Machine learning)
 - 💞️ I’m looking to collaborate on ML Models and DL Projects
