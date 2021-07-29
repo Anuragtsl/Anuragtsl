@@ -14,9 +14,9 @@
   
   * How to reach me:🕵️‍♀️
          
-      📌[Gmail](tsl.anurag@gmail.com) 
+       📌  **Email: tsl.anurag@gmail.com**
          
-      📌[LinkedIn](https://www.linkedin.com/in/anurag-toshniwal-977a32217/) 
+       📌  **LinkedIn: https://www.linkedin.com/in/anurag-toshniwal-977a32217/**
 <!---
 Anuragtsl/Anuragtsl is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
