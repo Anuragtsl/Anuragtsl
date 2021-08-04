@@ -15,7 +15,7 @@
 
 - Hobbies: **Playing Videogames and Coding.🎮💻**
 
-- Fun fact : **I knew many mysteries 🤗.**
+- Fun fact : **I knew many mysteries.🤗**
 
 - All of my projects are available at 👨‍💻: [Github/Anuragtsl](https://github.com/Anuragtsl)
 
