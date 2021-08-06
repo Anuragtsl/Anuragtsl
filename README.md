@@ -1,4 +1,4 @@
-<img align="top"  width="1000" height="225" src="https://github.com/Anuragtsl/Anuragtsl/blob/main/Aspiring%20Data%20Scientist.png">
+<img align="top"  width="1000" height="250" src="https://github.com/Anuragtsl/Anuragtsl/blob/main/Aspiring%20Data%20Scientist.png">
 
 <h1 align="center">Hello🙋‍♂️, I'm Anurag Toshniwal</h1>
 <h3 align="center">An Aspiring Data Scientist Student💪</h3>
