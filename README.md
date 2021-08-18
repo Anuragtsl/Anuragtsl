@@ -21,7 +21,7 @@
 
 - How to reach me 🕵️‍♀️: tsl.anurag@gmail.com
 
-- Connect with me on LinkedIn 🤝: [Anurag Toshniwal](https://www.linkedin.com/in/anurag-toshniwal-977a32217/)
+- Connect with me on LinkedIn 🤝: [Anurag Toshniwal](https://www.linkedin.com/in/anu-toshniwal/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
