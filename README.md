@@ -1,6 +1,6 @@
 <img align="top"  width="1000" height="250" src="https://github.com/Anuragtsl/Anuragtsl/blob/main/Aspiring%20Data%20Scientist.png">
 
-<h1 align="center">Hello🙋‍♂️, I'm Anurag Toshniwal</h1>
+<h1 align="center">Hola🙋‍♂️, I'm Anurag Toshniwal</h1>
 <h3 align="center">An Aspiring Data Scientist Student💪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragtsl&label=Profile%20views&color=0e75b6&style=flat" alt="anuragtsl" /> </p>
