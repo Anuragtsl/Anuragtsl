@@ -3,7 +3,7 @@
 <h1 align="center">Hola🙋‍♂️, I'm Anurag Toshniwal</h1>
 <h3 align="center">An Aspiring Data Scientist Student💪</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragtsl&label=Profile%20views&color=0e75b6&style=flat" alt="anuragtsl" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragtsl&label=Profile%20views&color=08ddcf&style=flat" alt="anuragtsl" /> </p>
 
 <img align="right" alt="Coding" width="445" src="https://github.com/Anuragtsl/Anuragtsl/blob/main/git.gif">
 
