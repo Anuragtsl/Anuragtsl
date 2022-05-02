@@ -17,11 +17,11 @@
 
 - Fun fact : **I knew many mysteries.🤗**
 
-- All of my projects are available at 👨‍💻: [Github/Anuragtsl](https://github.com/Anuragtsl)
+- All of my projects are available at 👨‍💻: **[Github/Anuragtsl](https://github.com/Anuragtsl)**
 
-- How to reach me 🕵️‍♀️: tsl.anurag@gmail.com
+- How to reach me 🕵️‍♀️: **tsl.anurag@gmail.com**
 
-- Connect with me on LinkedIn 🤝: [Anurag Toshniwal](https://www.linkedin.com/in/anu-toshniwal/)
+- Connect with me on LinkedIn 🤝: **[Anurag Toshniwal](https://www.linkedin.com/in/anu-toshniwal/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
