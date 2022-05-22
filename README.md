@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragtsl&label=Profile%20views&color=08ddcf&style=flat" alt="anuragtsl" /> </p>
 
-<img align="right" alt="Coding" width="445" src="https://github.com/Anuragtsl/Anuragtsl/blob/main/git.gif">
+<img align="bottom" alt="Coding" width="400" src="https://github.com/Anuragtsl/Anuragtsl/blob/main/git.gif">
 
 - I’m currently learning **Data Science.💖**
 
