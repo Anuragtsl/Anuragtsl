@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragtsl&label=Profile%20views&color=08ddcf&style=flat" alt="anuragtsl" /> </p>
 
-<img align="bottom" alt="Coding" width="400" src="https://github.com/Anuragtsl/Anuragtsl/blob/main/git.gif">
+<img align="right" alt="Coding" width="445" src="https://github.com/Anuragtsl/Anuragtsl/blob/main/git.gif">
 
 - I’m currently learning **Data Science.💖**
 
@@ -17,11 +17,11 @@
 
 - Fun fact : **I knew many mysteries.🤗**
 
-- All of my projects are available at 👨‍💻: **[Github/Anuragtsl](https://github.com/Anuragtsl)**
+- All of my projects are available at 👨‍💻: [Github/Anuragtsl](https://github.com/Anuragtsl)
 
-- How to reach me 🕵️‍♀️: **tsl.anurag@gmail.com**
+- How to reach me 🕵️‍♀️: tsl.anurag@gmail.com
 
-- Connect with me on LinkedIn 🤝: **[Anurag Toshniwal](https://www.linkedin.com/in/anu-toshniwal/)**
+- Connect with me on LinkedIn 🤝: [Anurag Toshniwal](https://www.linkedin.com/in/anu-toshniwal/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
