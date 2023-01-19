@@ -13,7 +13,7 @@
 
 - I'm looking to collaborate on **Data Science Projects.👭**
 
-- Hobbies: **Playing Videogames and Coding.🎮💻**
+- Hobbies: **Playing Videogames and Travelling.🎮💻**
 
 - Fun fact : **I knew many mysteries.🤗**
 
